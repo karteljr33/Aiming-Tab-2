@@ -23,7 +23,7 @@ if (AutoShow == nil) then
     AutoShow = AutoShow
 end
 local Window = Library:CreateWindow({
-    Title = "☣️ScriptHubV1☣️ SoftAim |🛠️Developed By Skrillaa🛠️",
+    Title = "☣️ScriptHubV1☣️ SoftAim |(Developed By Skrillaa🛠)",
     Center = true,
     AutoShow = AutoShow
 })
