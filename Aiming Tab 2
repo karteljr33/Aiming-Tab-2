@@ -20,7 +20,7 @@ local Teams = game:GetService("Teams")
 -- // Initialising the UI
 local AutoShow = AimingSettings.GUIAutoShow
 if (AutoShow == nil) then
-    AutoShow = true
+    AutoShow = nil
 end
 local Window = Library:CreateWindow({
     Title = "ScriptHubV1 SoftAim (Developed By Skrillaa)",
